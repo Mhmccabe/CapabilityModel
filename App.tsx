@@ -57,7 +57,7 @@ const App: React.FC = () => {
       </main>
       
       <footer className="text-center p-4 text-xs text-gray-400">
-        &copy; 2024 Michael McCabe. All rights reserved.
+        have fun
       </footer>
     </div>
   );
