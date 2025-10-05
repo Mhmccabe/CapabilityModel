@@ -1,0 +1,5 @@
+{
+  "name": "ArchiMate Capability Mapper",
+  "description": "An interactive tool to visualize business capability models. Enter your capabilities as a hierarchical bulleted list, and the application will generate an ArchiMate 3.2 compliant capability map from your input.",
+  "requestFramePermissions": []
+}

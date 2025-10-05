@@ -1,0 +1,23 @@
+
+export const DEFAULT_CAPABILITY_MODEL = `- Corporate Management
+  - Strategic Management
+    - Business Strategy Development
+    - Performance Management
+  - Financial Management
+    - Budgeting & Forecasting
+    - Accounting & Reporting
+  - Human Resource Management
+- Product Development
+  - Research & Development
+  - Product Design
+  - Quality Assurance
+- Marketing & Sales
+  - Marketing Strategy
+  - Campaign Management
+  - Sales Execution
+    - Lead Generation
+    - Opportunity Management
+- Operations
+  - Supply Chain Management
+  - Manufacturing
+  - Logistics`;
