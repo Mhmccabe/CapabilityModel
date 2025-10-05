@@ -1,23 +1,60 @@
 
-export const DEFAULT_CAPABILITY_MODEL = `- Corporate Management
-  - Strategic Management
-    - Business Strategy Development
-    - Performance Management
-  - Financial Management
-    - Budgeting & Forecasting
-    - Accounting & Reporting
-  - Human Resource Management
-- Product Development
-  - Research & Development
-  - Product Design
-  - Quality Assurance
-- Marketing & Sales
-  - Marketing Strategy
-  - Campaign Management
-  - Sales Execution
+export const DEFAULT_CAPABILITY_MODEL = `- Customer Management
+  - Customer Engagement
+    - Customer Segmentation
+    - Customer Communication
+    - Loyalty Program Management
+    - Customer Journey Mapping
+  - Customer Support
+    - Inquiry Handling
+    - Complaint Resolution
+    - Customer Feedback Collection
+    - Service Level Management
+  - Customer Data Management
+    - Profile Management
+    - Data Privacy Compliance
+    - Customer Analytics
+    - Data Integration
+  - Customer Acquisition
     - Lead Generation
-    - Opportunity Management
-- Operations
-  - Supply Chain Management
-  - Manufacturing
-  - Logistics`;
+    - Campaign Management
+    - Sales Funnel Management
+    - Conversion Tracking
+- Product Management
+  - Product Development
+    - Product Design
+    - Market Research
+    - Prototype Testing
+    - Product Launch Planning
+  - Product Lifecycle Management
+    - Version Control
+  - Inventory Management
+    - Stock Tracking
+    - Replenishment Planning
+    - Inventory Optimization
+  - Pricing Strategy
+    - Price Setting
+    - Discount Management
+    - Competitive Pricing Analysis
+- Supply Chain Management
+  - Procurement
+    - Supplier Selection
+    - Contract Negotiation
+    - Purchase Order Management
+    - Supply Planning
+  - Inventory Control
+    - Stock Level Monitoring
+    - Demand Forecasting
+    - Inventory Auditing
+    - Returns Management
+  - Logistics
+    - Transportation Coordination
+    - Warehouse Operations
+    - Delivery Scheduling
+    - Route Optimization 
+- Supplier Relationship Management
+  - Performance Monitoring
+  - Supplier Communication
+  - Risk Assessment
+  - Compliance Management
+`;
